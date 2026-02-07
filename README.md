@@ -30,12 +30,11 @@
 
 ---
 
-### 📊 Tactical Stats
+### 🚀 Key Deployments & Impact
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlejandroGlezSan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGlezSan&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
+* **Infrastructure as Code:** Reducción del tiempo de despliegue de servidores en un 70% mediante scripts de automatización personalizados. 
+* **Network Reliability:** Gestión de conectividad crítica para más de 200 sedes, manteniendo un uptime del 99.9%. 
+* **Security Hardening:** Implementación de protocolos de cifrado y prevención de intrusos en entornos de datos sensibles.>
 
 ---
 
